@@ -8,7 +8,7 @@ Ejecutamos el proyecto
 
 > `npm start`
 
-Simulamos una api cons JSON-SERVER lo inciamos con el siguiente comando:
+Simulamos una api con JSON-SERVER lo inciamos con el siguiente comando:
 
 > `npx json-server db.json --port 4000`
 
